@@ -41,3 +41,11 @@ td, th {
 .home {
   padding-top: 40px;
 }
+
+.activities {
+  max-width: 400px;
+}
+
+strong {
+  padding-bottom: 15px;
+ }
