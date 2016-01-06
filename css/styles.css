@@ -1,3 +1,43 @@
+body {
+  text-align: center;
+  font-size: 18px;
+  background-color: #A32A2A;
+  margin: 50px;
+  font-family: cursive;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: orange;
+}
+
+footer {
+  margin-top: 30px;
+}
+
 h1 {
-  color: blue;
+  font-size: 100px;
+
+}
+
+p {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+table {
+  margin: 0 auto;
+  border-style: groove;
+  background-color: #8C1E1E;
+}
+
+td, th {
+  color: #C67400;
+}
+
+.home {
+  padding-top: 40px;
 }
